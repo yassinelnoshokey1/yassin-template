@@ -1,0 +1,67 @@
+/* Add custom CSS styles below */ 
+/*Start Home Page style*/
+p.advanced-slider__caption__inner__content__text {
+    font-family: inherit;
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 20px;
+}
+a.advanced-slider__caption__inner__content__button {
+    border-radius: 5px;
+    width: 135px;
+    text-align: center;
+    font-size: 18px !important;
+    font-family: inherit;
+    font-weight: bolder;
+    padding-bottom: 15px;
+    background-color: #915a7f;
+}
+.special-categories.enhanced_btns .group-banner .banner-wrapper-infor .banner-button {
+    background: #915A7E !important;
+    font-size: 19px;
+    color: #fff;
+    padding: 0px 15px 10px 15px !important;
+    line-height: normal !important;
+    border-radius: 5px !important;
+    margin-top: 50px !important;
+}
+.special-categories .single-banner .banner-button {
+  background: #915A7E !important;
+    font-size: 19px;
+    color: #fff;
+    padding: 0px 15px 10px 15px !important;
+    line-height: normal !important;
+    border-radius: 5px !important;
+}
+
+@media(min-width: 991px) {
+.advanced-slider__caption__inner--right .advanced-slider__caption__inner__content {
+    margin-top: 120px;
+    margin-right: 45px;
+}
+}
+.s-block--square-links h3.mt-4.text-base.font-semibold.leading-7.tracking-tight.text-store-text-primary {
+    color: white !important;
+}
+.product-card {
+    border: 2px solid #915a7f !important;
+    border-radius: 10px !important;
+ }
+ a.advanced-slider__caption__inner__content__button.outlined {
+    border: none !important;
+    display: flex;
+    margin-bottom: -120%;
+    font-size: 22px !important;
+    width: 150px !important;
+}
+salla-slider#main-slider-5 h2.lg\:text-title-size.font-bold.leading-tight.mb-4 {
+    color: #915a7f !important;
+    text-align: left;
+}   
+/*End Home Page style*/
+/*Start Product Page style*/
+.product-form section.bg-storeBG.py-5.rounded-md.mb-5,section.sticky-product-bar.bg-storeBG.py-5.rounded-md.rounded-b-none {
+    padding-right: 15px !important;
+    padding-left: 15px !important;
+}
+/*End Product Page Style*/
